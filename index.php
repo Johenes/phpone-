@@ -1,5 +1,7 @@
 <?
 
-echo "Olá mundo"
+echo "Olá crazy mundo";
+
+echo "Olá hcoode"
 
 ?>
