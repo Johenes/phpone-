@@ -1,5 +1,6 @@
 <?
 
-echo "Olá mundo"
+echo "Olá louco mundo";
 
+  echo "Olá hcode";
 ?>
